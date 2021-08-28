@@ -1,0 +1,32 @@
+.title
+{
+    text-align: center;
+    font-size: 60px;
+    color: red;
+    font-family: "Bebas Neue";
+}
+
+.buttons
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Bebas Neue";
+    
+}
+
+.photos .photo1
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-bottom: 10px:
+}
+
+
+.info
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Bebas Neue";
+    
+}
